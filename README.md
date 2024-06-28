@@ -1,6 +1,4 @@
-Sure, I'll create a detailed write-up for your AI marketing project.
 
----
 
 # AI Marketing Project
 
